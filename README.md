@@ -1,7 +1,6 @@
 # VitaShell
 
-VitaShell is an alternative replacement of the PS Vita's LiveArea. It offers you a file manager, package installer, built-in FTP and much more.
-This homebrew was an entry of the Revitalize PS Vita homebrew competition and won the first prize. HENkaku's molecularShell is also based on VitaShell.
+Vitashell为PS Vita提供了一个文件管理器，这其中包含了安装程序、内置ftp等等功能。。
 
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md)
