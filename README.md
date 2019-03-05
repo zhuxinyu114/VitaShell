@@ -5,15 +5,15 @@ Vitashell为PS Vita提供了一个文件管理器，这其中包含了安装程�
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md)
 
-## How to use an USB flash drive as Memory Card on a PS TV
-- Format your USB flash drive as exFAT or FAT32.
-- Launch VitaShell and press `▲` in the `home` section.
-- Select `Mount uma0:` and attach your USB flash drive. You can now copy stuff from/to your USB stick.
-- Once `uma0:` is listed under the partitions, press `▲` again and choose `Mount USB ux0:`. This will copy important apps like VitaShell, molecularShell, and other files.
-- Your USB flash drive is now acting as a Memory Card.
-- To sync all your apps on your USB flash drive, press `▲` and choose `Refresh livearea`. This will NOT refresh PSP games.
-- If you wish to revert the patch, press `▲` and select `Umount USB ux0:`.
-- Note that this patch is only temporary and you need to redo the procedure everytime you launch your PS TV.
+## 如何将USB闪存驱动器当作PS TV上的存储卡使用？
+- 将USB闪存驱动器格式化为exfat或fat32.
+- 启动Vitashell并在主页部分按▲.
+- 选择mount uma0:并连接USB闪存驱动器。然后把文件复制到U盘上.
+- 一旦uma0:挂载到分区下，再次按▲并选择mount usb ux0:。这将会复制几个重要的应用程序，如vitalshell、molecularshell和其他文件.
+- USB闪存驱动器现在已经被识别为内置存储卡.
+- 要同步USB闪存驱动器上的所有应用程序，请按▲并选择刷新LiveArea。当然喽，这不会刷新PSP游戏.仅仅是PSV游戏生效
+- 如果要恢复补丁，请按▲并选择umount usb ux0:.
+- 请注意，修补程序只是临时的，并不能固化，每次启动PS TV时都需要重新执行此过程.
 
 ## Customization
 You can customize those files:
